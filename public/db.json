@@ -1,0 +1,36 @@
+{
+  "users": 
+  [
+    {
+      "userId": 10,
+      "username": "Nitish Gupta",
+      "email": "nitish@gmail.com",
+      "phone": "9999"
+    },
+    {
+      "userId": 2,
+      "username": "Ravi Gupta",
+      "email": "ravi@gmail.com",
+      "phone": "9999"
+    },
+    {
+      "userId": 3,
+      "username": "Sandeep Srivastava",
+      "email": "sandeep@gmail.com",
+      "phone": "9999"
+    },
+    {
+      "userId": 4,
+      "username": "Shivam Bhanja",
+      "email": "shivam@gmail.com",
+      "phone": "9999"
+    },
+    {
+      "userId": 9,
+      "username": "Mudassir Uddin",
+      "email": "mudassir@gmail.com",
+      "phone": "9999"
+    }
+  ]
+  
+}

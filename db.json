@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 3,
+      "username": "Sandeep Srivastava",
+      "email": "sandeep@gmail.com",
+      "phone": "9999"
+    },
+    {
+      "id": 4,
+      "username": "Shivam Bhanja",
+      "email": "shivam@gmail.com",
+      "phone": "9999"
+    },
+    {
+      "id": 5,
+      "username": "Mudassir Uddin",
+      "email": "mudassir@gmail.com",
+      "phone": "9999"
+    },
+    {
+      "username": "Abhishek",
+      "email": "abhishek@gmail.com",
+      "phone": "938893938884",
+      "id": 6
+    }
+  ]
+}
